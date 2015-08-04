@@ -1,0 +1,13 @@
+c:\users\800057\documents\visual studio 2013\Projects\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.exe.config
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.exe.config
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.csprojResolveAssemblyReference.cache
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.Forms.AdminForm.resources
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.Forms.OperatorForm.resources
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.LoginForm.resources
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.MainForm.resources
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.Properties.Resources.resources
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.csproj.GenerateResource.Cache
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.exe
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.pdb
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.exe
+G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.pdb
