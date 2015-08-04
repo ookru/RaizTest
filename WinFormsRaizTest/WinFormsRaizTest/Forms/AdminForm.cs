@@ -18,7 +18,7 @@ namespace WinFormsRaizTest.Forms
         DataTable DT = new DataTable();
         SqlDataAdapter SQLDA = new SqlDataAdapter();
         string SQLConString { get; set; }
-        
+        bool first = true;
         public AdminForm(string sqlConString)
         {
             InitializeComponent();
@@ -42,6 +42,7 @@ namespace WinFormsRaizTest.Forms
             {
                 dtGridViewPeopleInfo.Columns[i].HeaderText=columnNames[i];
             }
+           
 
         }
 
@@ -64,12 +65,34 @@ namespace WinFormsRaizTest.Forms
 
         private void dtGridViewPeopleInfo_CurrentCellDirtyStateChanged(object sender, EventArgs e)
         {
-            btnOK.Enabled = true;
+            if (!first)
+            {
+                btnOK.Enabled = true;
+            }
         }
 
         private void dtGridViewPeopleInfo_RowsRemoved(object sender, DataGridViewRowsRemovedEventArgs e)
         {
-            btnOK.Enabled = true;
+            if (!first)
+            {
+                btnOK.Enabled = true;
+            }
+        }
+
+        private void AdminForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (btnOK.Enabled)
+            {
+                if (DialogResult.No == MessageBox.Show("У Вас есть несохраненные изменения. Вы действительно хотите выйти?", "Внимание!", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
+                {
+                    e.Cancel = true;
+                }
+            }
+        }
+
+        private void AdminForm_Load(object sender, EventArgs e)
+        {
+            first = false;
         }
 
     }

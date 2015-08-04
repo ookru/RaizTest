@@ -11,3 +11,15 @@ G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\Win
 G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.pdb
 G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.exe
 G:\MyMyProjects\WinFormsRaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.pdb
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.exe.config
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.exe
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.pdb
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.exe
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\bin\Debug\WinFormsRaizTest.pdb
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.csprojResolveAssemblyReference.cache
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.Forms.AdminForm.resources
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.Forms.OperatorForm.resources
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.LoginForm.resources
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.MainForm.resources
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.Properties.Resources.resources
+C:\Users\okruckih\Documents\GitHub\RaizTest\WinFormsRaizTest\WinFormsRaizTest\obj\Debug\WinFormsRaizTest.csproj.GenerateResource.Cache

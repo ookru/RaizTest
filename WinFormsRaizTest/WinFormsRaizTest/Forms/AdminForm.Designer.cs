@@ -201,6 +201,8 @@
             this.Controls.Add(this.dtGridViewPeopleInfo);
             this.Name = "AdminForm";
             this.Text = "Форма администратора";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AdminForm_FormClosing);
+            this.Load += new System.EventHandler(this.AdminForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtGridViewPeopleInfo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindNavPeopleInfo)).EndInit();
             this.bindNavPeopleInfo.ResumeLayout(false);
